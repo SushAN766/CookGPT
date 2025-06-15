@@ -78,4 +78,4 @@ Feel free to submit issues or feature requests!
 
 ---
 
-Happy coding! 🚀✨  
+Happy coding! 
