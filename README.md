@@ -1,4 +1,4 @@
-# 🍽️ CookGPT | React & TailwindCSS  
+#  CookGPT | React & TailwindCSS  
 
 A simple recipe search app using the **EDAMAM API**.  
 
@@ -6,16 +6,16 @@ A simple recipe search app using the **EDAMAM API**.
 
 ---
 
-## 🌟 Features  
-✅ Learn **React + TailwindCSS + EDAMAM API**  
-✅ Build a **Responsive Design**  
+##  Features  
+ Learn **React + TailwindCSS + EDAMAM API**  
+ Build a **Responsive Design**  
  
 
 ---
 
-## 🛠️ Run Locally  
+##  Run Locally  
 
-### 1️⃣ Setup `.env` File  
+### 1️ Setup `.env` File  
 Create a `.env` file in the root directory and add:  
 
 ```env
@@ -23,7 +23,7 @@ VITE_APP_ID = your_edamam_app_id
 VITE_APP_KEY = your_edamam_app_key
 ```
 
-### 2️⃣ Install Dependencies  
+### 2️ Install Dependencies  
 Run the following command to install all required packages:  
 
 ```sh
@@ -36,7 +36,7 @@ If using **Yarn**, run:
 yarn install
 ```
 
-### 3️⃣ Start the App  
+### 3️ Start the App  
 To start the development server, run:  
 
 ```sh
@@ -51,7 +51,7 @@ yarn dev
 
 ---
 
-## 📌 Tech Stack  
+## Tech Stack  
 - **React.js**  
 - **TailwindCSS**  
 - **Zustand (for global state management)**  
@@ -59,20 +59,20 @@ yarn dev
 
 ---
 
-## 🎨 UI Design  
+##  UI Design  
 The app is built with **TailwindCSS** and **DaisyUI** for a modern and responsive look.  
 
 ---
 
-## 🌍 Deployment  
+##  Deployment  
 Deploy the app for free using:  
 - **Vercel**  
 - **Netlify**  
 
 ---
 
-## 📢 Contribute  
-Feel free to submit issues or feature requests! 😊  
+##  Contribute  
+Feel free to submit issues or feature requests! 
 
 
 
