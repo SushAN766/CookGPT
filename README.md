@@ -1,4 +1,4 @@
-#  CookGPT | React & TailwindCSS  
+#  CookGPT |  Smart Recipe Finder
 
 A simple recipe search app using the **EDAMAM API**.  
 
