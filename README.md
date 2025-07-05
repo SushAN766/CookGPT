@@ -22,7 +22,7 @@ A simple recipe search app using the **EDAMAM API**.
 ---
 ##  Run with Docker
 
-### 1️ Build and Run
+### 1️.Build and Run
 
 Make sure Docker is installed, then run:
 
@@ -30,11 +30,12 @@ Make sure Docker is installed, then run:
 docker-compose up --build
 ```
 The app will be available at:
+
 ```arduino
 http://localhost:3000
 ```
 
-### 2️ Environment Variables
+### 2️.Environment Variables
 
 Create a `.env` file in the root directory (same as `Dockerfile`) and add:
 
@@ -44,15 +45,17 @@ VITE_APP_KEY=your_edamam_app_key
 ```
 You can use .env.local for local development, but make sure it’s copied into the image when Dockerizing.
 
-### 3️ Docker Files Included
+### 3️.Docker Files Included
 
 - `Dockerfile` – builds the app container  
 - `docker-compose.yml` – runs the container with necessary settings  
-- `.dockerignore` – avoids copying unnecessary files to the image  
+- `.dockerignore` – avoids copying unnecessary files to the image
+
+---
 
 ##  Run Locally  
 
-### 1️ Setup `.env` File  
+### 1️.Setup `.env` File  
 Create a `.env` file in the root directory and add:  
 
 ```env
@@ -60,7 +63,7 @@ VITE_APP_ID = your_edamam_app_id
 VITE_APP_KEY = your_edamam_app_key
 ```
 
-### 2️ Install Dependencies  
+### 2️.Install Dependencies  
 Run the following command to install all required packages:  
 
 ```sh
@@ -73,7 +76,7 @@ If using **Yarn**, run:
 yarn install
 ```
 
-### 3️ Start the App  
+### 3️.Start the App  
 To start the development server, run:  
 
 ```sh
